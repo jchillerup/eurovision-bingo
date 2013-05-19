@@ -2,7 +2,6 @@ cliches = [
     "Wind machine",
     "Obvious biased voting by Eastern bloc",
     "Obvious biased voting by Scandinavia",
-    "Obvious biased voting by Scandinavia",
     "Obvious biased voting by Southern Europe",
     "Too sharp",
     "Too flat",
@@ -27,6 +26,12 @@ cliches = [
     "Floaty dress",
     "\"Ethnic instrument\"",
     "Blatant miming",
+    "There is use of atmospheric panpipes, drums, fiddles and/or traditional dancing",
+    "Rap",
+    "Flirt with camera post-performance",
+    "Host/Hostess have to hurry a voter for wasting time with pointless wittering",
+    "Looooong zoom",
 ]
 
-# most of these borrowed by http://meish.org/2010/05/29/lets-play-eurovision-bingo/ -- thanks!
+# most of these borrowed from http://meish.org/2010/05/29/lets-play-eurovision-bingo/ -- thanks!
+# some borrowed from http://www.aleth.talktalk.net/eurosong.html
