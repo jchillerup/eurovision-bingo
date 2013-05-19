@@ -24,5 +24,9 @@ cliches = [
     "Pyrotechnics",
     "Performer under 18",
     "Crowd booing",
-    
+    "Floaty dress",
+    "\"Ethnic instrument\"",
+    "Blatant miming",
 ]
+
+# most of these borrowed by http://meish.org/2010/05/29/lets-play-eurovision-bingo/ -- thanks!
