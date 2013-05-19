@@ -31,6 +31,9 @@ cliches = [
     "Flirt with camera post-performance",
     "Host/Hostess have to hurry a voter for wasting time with pointless wittering",
     "Looooong zoom",
+    "Presenter speaking in rhyme",
+    "Awkwardness when receiving points from a country not qualifying for the final",
+    "Pointgivers speaking the language of the host nation",
 ]
 
 # most of these borrowed from http://meish.org/2010/05/29/lets-play-eurovision-bingo/ -- thanks!
