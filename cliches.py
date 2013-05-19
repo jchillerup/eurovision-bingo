@@ -1,0 +1,28 @@
+cliches = [
+    "Wind machine",
+    "Obvious biased voting by Eastern bloc",
+    "Obvious biased voting by Scandinavia",
+    "Obvious biased voting by Scandinavia",
+    "Obvious biased voting by Southern Europe",
+    "Too sharp",
+    "Too flat",
+    "Two key changes in the same song"
+    "Steps on stage",
+    "Dubstep break",
+    "Nonsense lyrics (e.g. bing-a-bonga-ding-dong)",
+    "Costume change mid-act",
+    "Entire group of performers dressed in single color",
+    "Costume involving sequins",
+    "Relatives performing together",
+    "Singer who can also play an instrument",
+    "Shot of performers waving backstage",
+    "National costume",
+    "Shot of performers wrapped in country flag",
+    "Reference to cost of event",
+    "Sung syllable containing more than 8 notes",
+    "Lyrical reference to peace/brotherhood/an end to suffering",
+    "Pyrotechnics",
+    "Performer under 18",
+    "Crowd booing",
+    
+]
