@@ -38,3 +38,4 @@ cliches = [
 
 # most of these borrowed from http://meish.org/2010/05/29/lets-play-eurovision-bingo/ -- thanks!
 # some borrowed from http://www.aleth.talktalk.net/eurosong.html
+# adapt: https://twitter.com/smulsex/status/414090859425316864 https://twitter.com/smulsex/status/414090924353134592
